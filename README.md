@@ -1,4 +1,4 @@
-![Uploading image.png…]()
+<img src="https://documentation.wazuh.com/current/_images/access-wazuh-server-api1.png" alt="YEN Project Banner">
 
 </head>
 <body>
