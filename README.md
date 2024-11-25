@@ -83,11 +83,9 @@
     <p>We welcome contributions! Feel free to submit issues or pull requests to enhance <strong>YEN</strong>.</p>
     
 <h2>📞 Support</h2>
-    <p>For questions or assistance, reach out to us at <a href="mailto:your-email@example.com">your-email@example.com</a>.</p>
+    <p>For questions or assistance, reach out to us at <a href="mailto:4bhijith@proton.me">Admin</a>.</p>
     
-<h2>📄 License</h2>
-    <p>This project is licensed under the <a href="LICENSE">MIT License</a>.</p>
-    
+
    <footer>
         <p><strong>YEN:</strong> Strengthening cybersecurity with real-time precision.</p>
     </footer>
